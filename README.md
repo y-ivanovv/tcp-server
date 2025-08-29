@@ -5,11 +5,11 @@
 В одном терминале запускаем сервер:
 
 ```bash
-go run client/client.go
+go run server/server.go
 ```
 
 В другом терминале запускаем клиент:
 
 ```bash
-go run server/server.go
+go run client/client.go
 ```
